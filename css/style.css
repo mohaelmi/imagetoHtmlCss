@@ -45,8 +45,8 @@
 }
 
 .container {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 15%;
+  margin-right: 15%;
   /* background-color: burlywood; */
 }
 
@@ -54,7 +54,7 @@
 .firstcontent {
   display: flex;
   background-color: #333333;
-  height: 250px;
+  height: 150px;
   border: 1px solid;
   padding: 10px;
   margin-top: 20px;
@@ -64,10 +64,8 @@
 
 .secondcontent {
   background-color:#333333;
-  height: 150px;
+  height: 100px;
   border: 1px;
-  margin-top: 10px;
-  margin-bottom: 20px;
   margin-left: 20px;
 }
 
@@ -79,8 +77,8 @@
 .secondcontent h5 {
   color: #F8F8F8;
   text-align: center; 
-  margin-top: 20px;
-  padding-top: 50px;
+  margin-top: 10px;
+  padding-top: 15px;
 }
 
 
@@ -94,7 +92,7 @@
 .fourthcontent {
   display: flex;
   padding: 10px;
-  margin-top: 50px;
+  /* margin-top: 50px; */
 }
 
 .fourthcontent .first{
@@ -103,7 +101,7 @@
   color: #F8F8F8;
   order: 1;
   text-align: center;
-  /* height: 150px; */
+  height: 150px;
   margin-left: 20px;
   
   
@@ -113,10 +111,11 @@
   flex: 1;
   color: black;
 
+
 }
 
 .fourthcontent .first h5 {
-  margin-top: 90px;
+  margin-top: 50px;
 }
 
 
