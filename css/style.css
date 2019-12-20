@@ -181,9 +181,6 @@
  
 /* for phones   */
 @media only screen and (max-width: 420px) {
-  body {
-    background-color: lightblue;
-  }
 
   
 .header {
@@ -300,9 +297,7 @@
 
 /* for ipads */
 @media only screen and (max-width: 650px ) {
-  body {
-    background-color: crimson;
-  }
+
 
   .header {
     color:#A39E9B;
